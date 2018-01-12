@@ -1,0 +1,16 @@
+{
+  "secret": "loftschool",
+  "key": "key",
+  "mail": {
+    "subject": "Сообщение с сайта",
+    "smtp": {
+      "host": "smtp.mail.ru",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "alex_loft91@mail.ru",
+        "pass": "blackmamba91"
+      }
+    }
+  }
+}

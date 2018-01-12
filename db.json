@@ -1,0 +1,26 @@
+{
+  "works": [
+    {
+      "projectName": "erwer",
+      "projectUrl": "dcsdcsd",
+      "text": "ssdcsd",
+      "dir": "\\upload\\kartinki24_ru_art_167.jpg"
+    },
+    {
+      "projectName": "111",
+      "projectUrl": "11111",
+      "text": "111",
+      "dir": "\\upload\\kartinki24_ru_art_79.jpg"
+    },
+    {
+      "projectName": "1111111",
+      "projectUrl": "111",
+      "text": "111111111",
+      "dir": "upload/kartinki24_ru_art_100.jpg"
+    }
+  ],
+  "user": {
+    "login": "111@mail.ru",
+    "password": "111"
+  }
+}
